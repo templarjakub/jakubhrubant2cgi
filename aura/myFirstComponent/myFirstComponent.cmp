@@ -1,0 +1,7 @@
+<!--
+ - Created by jakub.hrubant on 26.02.2019.
+ -->
+
+<aura:component description="myFirstComponent">
+    <p> I am proficient in JavaScript</p>
+</aura:component>

@@ -1,0 +1,11 @@
+<!--
+ - Created by jakub.hrubant on 26.02.2019.
+ -->
+
+<apex:page id="DisplayImage" sidebar="false" showHeader="false">
+    <apex:pageBlock title="A Block Title">
+        <apex:pageBlockSection title="A Section Title">
+            <apex:image url="https://developer.salesforce.com/files/salesforce-developer-network-logo.png"/>>
+        </apex:pageBlockSection>
+        </apex:pageBlock>
+</apex:page>
